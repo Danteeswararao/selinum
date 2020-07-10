@@ -16,7 +16,7 @@ public class Second {
 
                 WebDriver driver = new ChromeDriver(chromeOptions);
 
-                driver.get("http://ec2-3-15-148-238.us-east-2.compute.amazonaws.com:8082/");
+                driver.get("http://ec2-3-135-218-240.us-east-2.compute.amazonaws.com:8082/");
 
                 Thread.sleep(1000);
 
